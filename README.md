@@ -10,6 +10,6 @@ You can watch the SWZL transfers on the [Etherscan](https://etherscan.io/token/0
 
 # Our bounty program.
 
-We have a smart-contract for bounty. You can take a look at source codes of our bounty contract [here]()
+We have a smart-contract for bounty. You can take a look at source codes of our bounty contract [here](https://github.com/SwapZilla/contract/blob/master/SWZL_Bounty.sol)
 
 Bounty contract address: [0xD55ec38E37F11cb95eb1F6f163d7ee0710F3573E](https://etherscan.io/address/0xd55ec38e37f11cb95eb1f6f163d7ee0710f3573e)
